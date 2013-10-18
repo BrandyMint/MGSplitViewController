@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/BrandyMint/MGSplitViewController'
   s.author   = { 'Matt Gemmell' => 'matt@mattgemmell.com' }
   s.source   = { :git           => 'https://github.com/BrandyMint/MGSplitViewController.git',
-                 :commit        => '580747fc57bdd5139de94fca25e8fe95e2dfd908' }
+                 :commit        => '0893213e64e17279e4e94b5c056d83862f3755a8' }
 
   s.source_files = 'Classes/MGSplit{ViewController,DividerView,CornersView}.*'
 end
